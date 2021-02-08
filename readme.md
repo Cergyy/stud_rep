@@ -1,4 +1,4 @@
-# лабалаторка 
+# лаболаторная работа Бастраков С.А. 
 ```
 git add readme.md 
 [master (root-commit) 3cc53ae] первый репозиторий
@@ -39,4 +39,10 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 ```
-git commit
+git remote
+origin
+```
+```
+git stash
+No local changes to save
+```
